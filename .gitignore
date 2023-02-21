@@ -107,4 +107,4 @@ web_modules/
 # jetbrains
 .idea
 
-.dist
+dist/
